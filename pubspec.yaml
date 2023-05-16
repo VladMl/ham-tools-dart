@@ -1,0 +1,9 @@
+name: cty
+
+
+environment:
+  sdk: '^2.12.0'
+dev_dependencies:
+  test: ^1.24.2
+dependencies:
+  mockito: ^5.4.0
